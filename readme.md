@@ -7,3 +7,13 @@ Escribir sobre mi
 ## Contactarme
 
  hacer el cierre de la presentación invitando a contactar
+
+ ## Technologies
+
+- HTML
+- CSS
+- JS
+
+## Skills
+
+- Coaching
