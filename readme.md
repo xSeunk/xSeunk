@@ -8,4 +8,11 @@ Escribir sobre mi
 
  hacer el cierre de la presentación invitando a contactar
 
+ ## Technologies
 
+- HTML
+- CSS
+
+## Skill
+
+- Coaching
