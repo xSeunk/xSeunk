@@ -12,8 +12,7 @@ Escribir sobre mi
 
 - HTML
 - CSS
-- JS
 
-## Skills
+## Skill
 
 - Coaching
