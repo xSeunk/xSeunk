@@ -8,10 +8,6 @@ Escribir sobre mi
 
  hacer el cierre de la presentación invitando a contactar
 
- ## Languages
-
-- English
-- Spanish
 
  ## Technologies
 
@@ -21,3 +17,9 @@ Escribir sobre mi
 ## Skill
 
 - Coaching
+- JS
+
+ ## Languages
+
+- English
+- Spanish
