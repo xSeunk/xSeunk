@@ -12,3 +12,12 @@ Escribir sobre mi
 
 - English
 - Spanish
+
+ ## Technologies
+
+- HTML
+- CSS
+
+## Skill
+
+- Coaching
